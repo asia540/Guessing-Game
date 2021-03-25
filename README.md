@@ -40,7 +40,7 @@ game depending on the result of a win or loss.
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-!(https://recordit.co/6CEP9m1C8U)
+!(https://recordit.co/KpFOOvl0zh)
 
 
 ## Reflection Questions
